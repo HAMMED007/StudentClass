@@ -72,7 +72,7 @@ public class Main {
                 System.out.println(students[i]);
             }
         }
-        // Group1
+        // Group2
         System.out.println("  ");
         System.out.println("  ");
         System.out.println(" GROUP 2");
